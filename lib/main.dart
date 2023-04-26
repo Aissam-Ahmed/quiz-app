@@ -70,9 +70,7 @@ class FirstAppState extends State<FirstApp> {
               child: DrawerView(),
               backgroundColor: mainColor,
             ),
-            endDrawer: Drawer(
-              child: Support()
-            ),
+            endDrawer: Drawer(child: Support()),
             appBar: AppBar(
               // titleSpacing: 0,
               backgroundColor: mainColor,
