@@ -10,7 +10,7 @@ class Support extends StatelessWidget {
       color: mainColor,
       child: Center(
         child: Text(
-          "Sapport Page",
+          "Contact Us",
           style: TextStyle(color: Colors.white, fontSize: 30),
         ),
       ),
